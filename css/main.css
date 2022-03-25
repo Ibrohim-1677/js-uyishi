@@ -1,0 +1,20 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.wrapper{
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #555;
+}
+.amerika{
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #555;
+}
+.UZB{
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #555;
+}
